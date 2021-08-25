@@ -1,16 +1,38 @@
-### Hi there 👋
+Marco from Italy, Computational Engineer nerd and amateur software developer.
 
-<!--
-**Marco-Pellegrino/Marco-Pellegrino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/nschloe/optimesh">
+  <img src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="20%"/>
+</a>
 
-Here are some ideas to get you started:
+### Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+
+### Popular projects
+
+ * 📐 alpaca4d: [Alpaca4d](https://github.com/nschloe/quadpy). [orthopy](https://github.com/nschloe/orthopy), [accupy](https://github.com/nschloe/accupy), [pacopy](https://github.com/nschloe/pacopy), [pyfvm](https://github.com/nschloe/pyfvm), [cplot](https://github.com/nschloe/cplot)
+
+
+#### Stats
+<a href="https://github.com/nschloe">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=nschloe&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nschloe&hide=html,java&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dracula" />
+</a>
+<a href="https://stackoverflow.com/users/353337/nico-schl%c3%b6mer">
+  <img height="137px" src="https://stackoverflow-card.vercel.app/?userID=353337&theme=dracula&showBorder=false" />
+</a>
+
+
+#### Find me
+<p>
+  <a href="mailto:pellegrino.marco@icloud.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23BB001B.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Marco-Pellegrino">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/mp_pelle">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
