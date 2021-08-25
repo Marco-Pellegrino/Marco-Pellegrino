@@ -11,7 +11,7 @@ Marco from Italy, Computational Engineer nerd and amateur software developer.
 
 ### Popular projects
 
- * 📐 alpaca4d: [Alpaca4d] (https://www.food4rhino.com/en/app/alpaca4d). 
+ * 📐 [Alpaca4d] (https://www.food4rhino.com/en/app/alpaca4d). 
 
 #### Stats
 <a href="https://github.com/nschloe">
