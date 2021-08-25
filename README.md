@@ -11,8 +11,7 @@ Marco from Italy, Computational Engineer nerd and amateur software developer.
 
 ### Popular projects
 
- * alpaca4d: alpaca4d: [Alpaca4d](https://github.com/nschloe/quadpy). [orthopy](https://github.com/nschloe/orthopy), [accupy](https://github.com/nschloe/accupy), [pacopy](https://github.com/nschloe/pacopy), [pyfvm](https://github.com/nschloe/pyfvm), [cplot](https://github.com/nschloe/cplot)
-
+ * 📐 alpaca4d: [Alpaca4d] (https://www.food4rhino.com/en/app/alpaca4d). 
 
 #### Stats
 <a href="https://github.com/nschloe">
