@@ -1,9 +1,5 @@
 Marco from Italy, Computational Engineer nerd and amateur software developer.
 
-<a href="https://github.com/nschloe/optimesh">
-  <img src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="20%"/>
-</a>
-
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
