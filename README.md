@@ -2,8 +2,11 @@ Marco from Italy, Computational Engineer nerd and amateur software developer.
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?&logo=JavaScript&logoColor=fff)
+![C#](https://img.shields.io/badge/-C%23-4B0082?&logo=c-sharp&logoColor=fff)
 
 ### Popular projects
 
@@ -18,7 +21,7 @@ Marco from Italy, Computational Engineer nerd and amateur software developer.
 #### Find me
 <p>
   <a href="mailto:pellegrino.marco@icloud.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23BB001B.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
+    <img alt="mail" src="https://img.shields.io/badge/Mail-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)" />
   </a>
   <a href="https://github.com/Marco-Pellegrino">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
