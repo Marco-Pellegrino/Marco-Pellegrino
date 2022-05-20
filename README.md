@@ -13,7 +13,7 @@ Marco from Italy, Computational Engineer nerd and amateur software developer.
  * 📐 [Alpaca4d](https://www.food4rhino.com/en/app/alpaca4d)
 
 #### Stats
-<a href="https://github.com/nschloe">
+<a href="https://github.com/Marco-Pellegrino">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Marco-Pellegrino&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" />
 </a>
 
