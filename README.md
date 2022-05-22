@@ -1,4 +1,4 @@
-Marco from Italy, Computational Engineer nerd and amateur software developer.
+Marco from Italy, Nerd Computational Engineer nerd amateur software developer.
 
 ### Languages
 
