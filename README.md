@@ -11,8 +11,6 @@ Marco from Italy, Nerd Computational Engineer nerd amateur software developer.
  * 📐 [alpaca4d](https://alpaca4d.github.io/)
  * 📐 [femdesignapi](https://femdesign-api-docs.onstrusoft.com/)
 
-![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marco-Pellegrino&show_icons=true&bg_color=00000000)
-
 
 #### Find me
 <p>
