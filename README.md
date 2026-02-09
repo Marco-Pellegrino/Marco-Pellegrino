@@ -14,7 +14,7 @@ Marco from Italy, Nerd Computational Engineer nerd amateur software developer.
 
 #### Find me
 <p>
-  <a href="mailto:pellegrino.marco@icloud.com">
-    <img alt="mail" src="https://img.shields.io/badge/Mail-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)" />
+  <a href="mailto:mp.pelle89@gmail.com">
+    <img alt="mail" src="https://img.shields.io/badge/Mail-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=white)" />
   </a>
 </p>
